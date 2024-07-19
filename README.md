@@ -15,6 +15,6 @@ random_string.random: Creation complete after 0s [id=Dql)cln#nMg-f>=yM{<63]
 Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
 
 ##
-use after (id=)
+use after (id=): Dql)cln#nMg-f>=yM{<63
 #
 to generate new passwords change the resource metrics.
