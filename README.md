@@ -1,6 +1,6 @@
 instal the dependencies  [...]
 #
-On CMD run
+On CMD find the file folder
 #
 step 1 run: terraform validate
 return: Success! The configuration is valid.
